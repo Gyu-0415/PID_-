@@ -1,0 +1,6 @@
+{
+  "name": "PID 시뮬레이터 & 제어기 워크스튜디오 (PID Simulator Lab)",
+  "description": "실시간 물리 시스템(드론, 크루즈 컨트롤, 도립진자, 온도 챔버 등)을 지원하는 고성능 반응형 PID 제어기 시뮬레이션 및 지글러-니콜스 자동 튜닝, 오실로스코프 분석, 다국어 코드 패키지 내보내기 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
